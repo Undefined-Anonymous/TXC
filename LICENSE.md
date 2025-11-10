@@ -1,6 +1,6 @@
 # THE CREATOR'S SOURCE LICENSE (CSL) v1.0
 
-**Copyright (c) 2025 Sergio Marquina**
+**Copyright (c) 2025 Sergio Marquina**<br>
 **Contact:** [Email](mailto:el.author.cloud@gmail.com)
 
 ---
