@@ -96,4 +96,4 @@ To Provide a Simple, Secure, And Friendly Chatroom Platform That Helps People Co
 
 This Project Is Distributed Under **THE CREATOR'S SOURCE LICENSE (CSL) v1.0**. Review The Full License Terms Here:
 
-**[THE CREATOR'S SOURCE LICENSE (CSL) v1.0](https://github.com/Undefined-Anonymous/TXC?tab=License-1-ov-file)**
+**[THE CREATOR'S SOURCE LICENSE (CSL) v1.0](https://github.com/Undefined-Anonymous/TXC/blob/Master/LICENSE.md)**
