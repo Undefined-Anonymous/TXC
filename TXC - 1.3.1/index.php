@@ -90,7 +90,7 @@ while ($row = $result->fetch_assoc()) {
     <title>TXC - Beta 1.3.1</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style><?php include '/Assets/CSS/styles.css'; ?></style>
+    <style><?php include 'Assets/CSS/styles.css'; ?></style>
 </head>
 <body>
     <div class="chat-container">
